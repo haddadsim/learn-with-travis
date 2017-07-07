@@ -30,7 +30,7 @@ Create a separate folder in the repository to store code you generate for each w
 * [ ] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
 * [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
-## React
+## [React](https://facebook.github.io/react/)
 
 * [ ] [Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
 * [ ] [React Express](http://www.react.express/)
@@ -43,5 +43,3 @@ See also: [The Postlight Engineering Library](https://trello.com/b/Sgol3uST/post
 ---
 
 What else should be here? See a mistake? Send a pull request or open an issue.
-
-
