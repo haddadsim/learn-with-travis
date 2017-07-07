@@ -36,6 +36,7 @@ Create a separate folder in the repository to store code you generate for each w
 * [ ] [React Express](http://www.react.express/)
 * [ ] [Create React App](https://github.com/facebookincubator/create-react-app)
 * [ ] [Testing with Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
+* [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 
 See also: [The Postlight Engineering Library](https://trello.com/b/Sgol3uST/postlight-engineering-library).
