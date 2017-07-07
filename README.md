@@ -10,6 +10,12 @@ Fork this repository. Once you've worked/read through the Git section, create a 
 
 Create a separate folder in the repository to store code you generate for each workshop, tutorial, or exercise. Use what you learned about Postlight's commit style in the first section, and check off the boxes on the list as you complete them.
 
+## Just Starting Out
+
+_Great for anyone who hasn't done much web development._
+
+* [ ] [FreeCodeCamp](https://www.freecodecamp.org) - Learn the basics of HTML, CSS, and JavaScript online.
+
 ## Git / GitHub
 
 * [ ] ["Postlight GitHub Talk by Jeremy Mack 2016-04-04"](https://www.youtube.com/watch?v=YtckscmKtYk) ([Slides](https://www.mindmeister.com/678359058?t=zgPweW2tuV))
