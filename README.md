@@ -8,7 +8,31 @@ A collection of resources for learning various engineering skills.
 
 Fork this repository. Once you've worked/read through the Git section, create a new branch in your fork, and commit the code you write as you go.
 
-Create a separate folder in the repository to store code you generate for each workshop, tutorial, or exercise. Use what you learned about Postlight's commit style in the first section, and check off the boxes on the list as you complete them.
+## Second, use your Git skills
+
+Once you've completed your Git training you will be ready to start branching, committing and creating pull requests to your own fork. You will only need to do this for the trainings that require you to write code. Other trainings such at git-it and How To NPM you will create separate repos as instructed in the workshop.
+
+* Training Module
+  * Create a branch for the training
+  * Create a separate folder in the repository to store your code
+* Training Exercises
+  * Commit each exercise to the branch
+  * Consider each exercise as a feature
+  * Other commits should follow Postlight's commit style
+* Finished?
+  * Check off the boxes on the list of the readme
+  * When your done push your branch to your fork
+  * Create a Pull Request to your own fork (not the original repo)
+  * Add your mentor as a reviewer
+
+## Git / GitHub
+
+  * [ ] ["Postlight GitHub Talk by Jeremy Mack 2016-04-04"](https://www.youtube.com/watch?v=YtckscmKtYk) ([Slides](https://www.mindmeister.com/678359058?t=zgPweW2tuV))
+  * [ ] Read about [Postlight's Commit Style](https://trello.com/c/Z2xpXbm1/10-%F0%9F%8E%A8-commit-style)
+  * [ ] Read about [Postlight's Pull Request Style](https://trello.com/c/DsH0Ea4L/11-%F0%9F%8C%B1-pull-request-style)
+  * [ ] [Git-it Desktop App tutorial ](https://github.com/jlord/git-it-electron)
+    * [ ] Your first repo: [https://github.com/username/hello-world]()
+    * [ ] Your fork of patchwork repo: [https://github.com/username/patchwork]()
 
 ## Just Starting Out
 
@@ -16,17 +40,14 @@ _Great for anyone who hasn't done much web development._
 
 * [ ] [FreeCodeCamp](https://www.freecodecamp.org) - Learn the basics of HTML, CSS, and JavaScript online.
 
-## Git / GitHub
+## Documentation
 
-* [ ] ["Postlight GitHub Talk by Jeremy Mack 2016-04-04"](https://www.youtube.com/watch?v=YtckscmKtYk) ([Slides](https://www.mindmeister.com/678359058?t=zgPweW2tuV))
-* [ ] Read about [Postlight's Commit Style](https://trello.com/c/Z2xpXbm1/10-%F0%9F%8E%A8-commit-style)
-* [ ] Read about [Postlight's Pull Request Style](https://trello.com/c/DsH0Ea4L/11-%F0%9F%8C%B1-pull-request-style)
-* [ ] [Git-it Desktop App tutorial ](https://github.com/jlord/git-it-electron)
 * [ ] [How to Markdown](https://github.com/workshopper/how-to-markdown)
 
 ## Package Management
 
 * [ ] [How to NPM](https://github.com/workshopper/how-to-npm)
+  * [ ] Extra Credit Repo [https://github.com/username/extra-credit-repo-name]()
 * [ ] [Egghead video - Yarn: A JavaScript Package Manager](https://egghead.io/lessons/javascript-yarn-a-javascript-package-manager)
 
 ## JavaScript
