@@ -27,12 +27,12 @@ Once you've completed your Git training you will be ready to start branching, co
 
 ## Git / GitHub
 
-  * [ ] ["Postlight GitHub Talk by Jeremy Mack 2016-04-04"](https://www.youtube.com/watch?v=YtckscmKtYk) ([Slides](https://www.mindmeister.com/678359058?t=zgPweW2tuV))
+* [ ] ["Postlight GitHub Talk by Jeremy Mack 2016-04-04"](https://www.youtube.com/watch?v=YtckscmKtYk) ([Slides](https://www.mindmeister.com/678359058?t=zgPweW2tuV))
   * [ ] Read about [Postlight's Commit Style](https://trello.com/c/Z2xpXbm1/10-%F0%9F%8E%A8-commit-style)
   * [ ] Read about [Postlight's Pull Request Style](https://trello.com/c/DsH0Ea4L/11-%F0%9F%8C%B1-pull-request-style)
-  * [ ] [Git-it Desktop App tutorial ](https://github.com/jlord/git-it-electron)
-    * [ ] Your first repo: [https://github.com/username/hello-world]()
-    * [ ] Your fork of patchwork repo: [https://github.com/username/patchwork]()
+* [ ] [Git-it Desktop App tutorial](https://github.com/jlord/git-it-electron)
+  * [ ] Your first repo: [https://github.com/username/hello-world](https://github.com/username/hello-world)
+  * [ ] Your fork of patchwork repo: [https://github.com/username/patchwork](https://github.com/username/patchwork)
 
 ## Just Starting Out
 
@@ -47,8 +47,8 @@ _Great for anyone who hasn't done much web development._
 ## Package Management
 
 * [ ] [How to NPM](https://github.com/workshopper/how-to-npm)
-  * [ ] Extra Credit Repo [https://github.com/username/extra-credit-repo-name]()
-* [ ] [Egghead video - Yarn: A JavaScript Package Manager](https://egghead.io/lessons/javascript-yarn-a-javascript-package-manager)
+  * [ ] Extra Credit Repo [https://github.com/username/put-extra-credit-repo-name-here](https://github.com/username/put-extra-credit-repo-name-here)
+* [ ] [Intro to Yarn Package Manager - Chris Courses](https://www.youtube.com/watch?v=7n467QmiANM)
 
 ## JavaScript
 
@@ -62,7 +62,7 @@ _Great for anyone who hasn't done much web development._
 
   * [Part 08](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/08-bootstrap-jss.md) 
     * There is a reported [issue](https://github.com/verekia/js-stack-from-scratch/issues/202) for the `react-jss` package.
-    * Stick to the 5.3.0 version by running: `npm install react-jss@5.3.0` to avoid the newer breaking updates.
+    * Stick to the 5.3.0 version by running: `npm install react-jss@5.3.0` or `yarn add react-jss@5.3.0` to avoid the newer breaking updates.
 
   * [Part 09](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/09-travis-coveralls-heroku.md)
     * Create a separate repository, it makes it easier to set up CI and to Deploy your app.
@@ -80,7 +80,6 @@ _Great for anyone who hasn't done much web development._
 * [ ] [Create React App](https://github.com/facebookincubator/create-react-app)
 * [ ] [Testing with Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
 * [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
-
 
 See also: [The Postlight Engineering Library](https://trello.com/b/Sgol3uST/postlight-engineering-library).
 
