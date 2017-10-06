@@ -81,6 +81,12 @@ _Great for anyone who hasn't done much web development._
 * [ ] [Testing with Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
 * [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
+## Putting it All Together
+
+Now that you have completed the training you can put it to practice to see how far your skills have evolved. Apply what you have learned by either revamping the code-challenge submission or writing an application from scratch that demonstrates the skills learned.
+
+* [ ] [https://github.com/username/my-application](https://github.com/username/my-application)
+
 See also: [The Postlight Engineering Library](https://trello.com/b/Sgol3uST/postlight-engineering-library).
 
 ## PHP
