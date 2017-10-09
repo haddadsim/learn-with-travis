@@ -90,7 +90,7 @@ Now that you have completed the training you can put it to practice to see how f
 See also: [The Postlight Engineering Library](https://trello.com/b/Sgol3uST/postlight-engineering-library).
 
 ## PHP
-
+* Windows 10 users, please [install and use the Linux Bash Shell](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) before going on with this tutorial
 * Follow the instructions on [PHP School](https://www.phpschool.io/) to accomplish the following workshops:
   * [ ] [Learn You PHP](https://github.com/php-school/learn-you-php)
     * The last exercise (Dependency Heaven) might fail to verify due to case sensitivity issue in the headers: `Pragma: no-cache` - `pragma: no-cache` 
