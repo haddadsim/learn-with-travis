@@ -61,8 +61,7 @@ _Great for anyone who hasn't done much web development._
 * [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
   * [Part 08](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/08-bootstrap-jss.md) 
-    * There is a reported [issue](https://github.com/verekia/js-stack-from-scratch/issues/202) for the `react-jss` package.
-    * Stick to the 5.3.0 version by running: `npm install react-jss@5.3.0` or `yarn add react-jss@5.3.0` to avoid the newer breaking updates.
+    * There is a reported [issue](https://github.com/verekia/js-stack-from-scratch/issues/243) while using the latest `react-jss` version and it is solved by importing JssProvider rather than SheetsRegistryProvider.
 
   * [Part 09](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/09-travis-coveralls-heroku.md)
     * Create a separate repository, it makes it easier to set up CI and to Deploy your app.
