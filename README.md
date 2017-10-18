@@ -60,7 +60,7 @@ _Great for anyone who hasn't done much web development._
   * _Note_ Exercises 9 and 10 have bugs in the workshopper that will cause your solution to always fail as documented [here](https://github.com/stevekane/promise-it-wont-hurt/pull/112). Complete and leave it failed or skip it altogether.
 * [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
-  * [Part 08](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/08-bootstrap-jss.md) 
+  * [Part 08](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/08-bootstrap-jss.md)
     * There is a reported [issue](https://github.com/verekia/js-stack-from-scratch/issues/243) while using the latest `react-jss` version and it is solved by importing JssProvider rather than SheetsRegistryProvider.
 
   * [Part 09](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/09-travis-coveralls-heroku.md)
@@ -71,6 +71,11 @@ _Great for anyone who hasn't done much web development._
   * Badges
     * **Once done**, update the badges placeholders above with ones specific for your application.
     * You can get the badges by visiting [shields.io](http://shields.io/). You can get Tokens from CircleCI's and Codecov's respective websites.
+
+### More Reading
+
+* [Mastering Modular JavaScript](https://github.com/mjavascript/mastering-modular-javascript)
+  * This book is part of a series from the creator of [PonyFoo.com](https://ponyfoo.com/books). It explores the history of modules in JavaScript and how to build robust modules using real-world design patterns and practices. The book is open source and free, and can be read on GitHub or through [PonyFoo.com](https://ponyfoo.com/books) in exchange for a tweet.
 
 ## [React](https://facebook.github.io/react/)
 
@@ -92,11 +97,11 @@ See also: [The Postlight Engineering Library](https://trello.com/b/Sgol3uST/post
 * Windows 10 users, please [install and use the Linux Bash Shell](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) before going on with this tutorial
 * Follow the instructions on [PHP School](https://www.phpschool.io/) to accomplish the following workshops:
   * [ ] [Learn You PHP](https://github.com/php-school/learn-you-php)
-    * The last exercise (Dependency Heaven) might fail to verify due to case sensitivity issue in the headers: `Pragma: no-cache` - `pragma: no-cache` 
+    * The last exercise (Dependency Heaven) might fail to verify due to case sensitivity issue in the headers: `Pragma: no-cache` - `pragma: no-cache`
   * [ ] [Callable Functions](https://github.com/NastasiaSaby/callable-functions)
   * [ ] [PHP7 way](https://github.com/NastasiaSaby/php7-way)
 
-* Optional: 
+* Optional:
   * [ ] Build a modern API using [Slim PHP](https://www.slimframework.com/) by following this [tutorial](https://www.slimframework.com/docs/tutorial/first-app.html)
 
 ---
