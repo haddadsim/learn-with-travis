@@ -19,6 +19,8 @@
   * _Note_ Exercises 9 and 10 have bugs in the workshopper that will cause your solution to always fail as documented [here](https://github.com/stevekane/promise-it-wont-hurt/pull/112). Complete and leave it failed or skip it altogether.
 * [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
+  * Each exercise should be in its own folder
+    * You may find it useful to copy/paste the content of the previous exercise for the next one 
   * [Part 08](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/08-bootstrap-jss.md)
     * There is a reported [issue](https://github.com/verekia/js-stack-from-scratch/issues/243) while using the latest `react-jss` version and it is solved by importing JssProvider rather than SheetsRegistryProvider.
 
