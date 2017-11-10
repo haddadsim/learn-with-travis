@@ -9,7 +9,7 @@
   * [ ] Extra Credit Repo [https://github.com/username/put-extra-credit-repo-name-here](https://github.com/username/put-extra-credit-repo-name-here)
 * [ ] [Intro to Yarn Package Manager - Chris Courses](https://www.youtube.com/watch?v=7n467QmiANM)
 
-## Node, etc
+## The Modern Stack
 
 [![Build Status](https://img.shields.io/circleci/token/YOUR_TOKEN/project/github/USER/REPO/BRANCH.svg?style=flat-square)](https://circleci.com/USER/REPO/tree/BRANCH) [![Coverage Status](https://img.shields.io/codecov/c/token/YOUR_TOKEN/github/USER/REPO/BRANCH.svg?style=flat-square)](https://codecov.io/USER/REPO/branch/BRANCH)
 
@@ -17,6 +17,7 @@
 * [ ] [Expressworks](https://github.com/azat-co/expressworks)
 * [ ] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
   * _Note_ Exercises 9 and 10 have bugs in the workshopper that will cause your solution to always fail as documented [here](https://github.com/stevekane/promise-it-wont-hurt/pull/112). Complete and leave it failed or skip it altogether.
+* [ ] [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 * [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
   * Each exercise should be in its own folder
