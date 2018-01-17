@@ -1,5 +1,5 @@
-| [Home](README.md) | [Groundwork](groundwork.md) | [JavaScript](javascript.md) | React | [Serverless](serverless.md) | [PHP](php.md) | [WordPress](wordpress.md) |
-| ----------------- | --------------------------- | --------------------------- | ----- | --------------------------- | ------------- | ------------------------- |
+| [Home](README.md) | [Groundwork](groundwork.md) | [JavaScript](javascript.md) | React | [Serverless](serverless.md) | [PHP](php.md) | [WordPress](wordpress.md) | [Docker](docker.md) | [Linux](linux.md) | [CSS](css.md) |
+| ----------------- | --------------------------- | --------------------------- | ----- | --------------------------- | ------------- | ------------------------- | ------------------- | ----------------- | ------------- |
 
 
 # [React](https://facebook.github.io/react/)

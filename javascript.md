@@ -1,5 +1,5 @@
-| [Home](README.md) | [Groundwork](groundwork.md) | JavaScript | [React](react.md) | [Serverless](serverless.md) | [PHP](php.md) | [WordPress](wordpress.md) |
-|-------------------|-----------------------------|------------|-------------------|-----------------------------|---------------|---------------------------|
+| [Home](README.md) | [Groundwork](groundwork.md) | JavaScript | [React](react.md) | [Serverless](serverless.md) | [PHP](php.md) | [WordPress](wordpress.md) | [Docker](docker.md) | [Linux](linux.md) | [CSS](css.md) |
+| ----------------- | --------------------------- | ---------- | ----------------- | --------------------------- | ------------- | ------------------------- | ------------------- | ----------------- | ------------- |
 
 # JavaScript
 
@@ -21,7 +21,7 @@
 * [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
   * Each exercise should be in its own folder
-    * You may find it useful to copy/paste the content of the previous exercise for the next one 
+    * You may find it useful to copy/paste the content of the previous exercise for the next one
   * [Part 08](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/08-bootstrap-jss.md)
     * There is a reported [issue](https://github.com/verekia/js-stack-from-scratch/issues/243) while using the latest `react-jss` version and it is solved by importing JssProvider rather than SheetsRegistryProvider.
 

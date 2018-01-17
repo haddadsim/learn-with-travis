@@ -1,5 +1,5 @@
-| [Home](README.md) | [Groundwork](groundwork.md) | [JavaScript](javascript.md) | [React](react.md) | [Serverless](serverless.md) | [PHP](php.md) | WordPress |
-|-------------------|-----------------------------|-----------------------------|-------------------|-----------------------------|---------------|-----------|
+| [Home](README.md) | [Groundwork](groundwork.md) | [JavaScript](javascript.md) | [React](react.md) | [Serverless](serverless.md) | [PHP](php.md) | WordPress | [Docker](docker.md) | [Linux](linux.md) | [CSS](css.md) |
+| ----------------- | --------------------------- | --------------------------- | ----------------- | --------------------------- | ------------- | --------- | ------------------- | ----------------- | ------------- |
 
 # WordPress
 
