@@ -1,5 +1,5 @@
-| Home | [Groundwork](groundwork.md) | [JavaScript & React](javascript.md) | [Serverless](serverless.md) | [WordPress & PHP](wordpress.md) | [Linux & Docker](linux.md) | [CSS](css.md) |
-| ---- | --------------------------- | ----------------------------------- | --------------------------- | ------------------------------- | -------------------------- | ------------- |
+| Home | [Groundwork](groundwork.md) | [JavaScript & React](javascript.md) | [Serverless](serverless.md) | [WordPress & PHP](wordpress.md) | [GraphQL](graphql.md) | [Linux & Docker](linux.md) | [CSS](css.md) |
+| ---- | --------------------------- | ----------------------------------- | --------------------------- | ------------------------------- | ----------------------|--------------------------- | ------------- |
 
 
 # postlight / learn
@@ -45,6 +45,7 @@ See also: [The Postlight Engineering Library](https://trello.com/b/Sgol3uST/post
 * [JavaScript & React](javascript.md)
 * [Serverless](serverless.md)
 * [WordPress & PHP](wordpress.md)
+* [GraphQL](graphql.md)
 * [Linux & Docker](linux.md)
 * [CSS](css.md)
 
