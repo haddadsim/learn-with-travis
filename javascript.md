@@ -1,5 +1,5 @@
-| [Home](README.md) | [Groundwork](groundwork.md) | JavaScript | [React](react.md) | [Serverless](serverless.md) | [PHP](php.md) | [WordPress](wordpress.md) | [Docker](docker.md) | [Linux](linux.md) | [CSS](css.md) |
-| ----------------- | --------------------------- | ---------- | ----------------- | --------------------------- | ------------- | ------------------------- | ------------------- | ----------------- | ------------- |
+| [Home](README.md) | [Groundwork](groundwork.md) | JavaScript & React | [Serverless](serverless.md) | [WordPress & PHP](wordpress.md) | [Linux & Docker](linux.md) | [CSS](css.md) |
+|-------------------| --------------------------- | ------------------ | --------------------------- | ------------------------------- | -------------------------- | ------------- |
 
 # JavaScript
 
@@ -39,3 +39,12 @@
 * [Mastering Modular JavaScript](https://github.com/mjavascript/mastering-modular-javascript)
   * This book is part of a series from the creator of [PonyFoo.com](https://ponyfoo.com/books). It explores the history of modules in JavaScript and how to build robust modules using real-world design patterns and practices. The book is open source and free, and can be read on GitHub or through [PonyFoo.com](https://ponyfoo.com/books) in exchange for a tweet.
 
+# [React](https://facebook.github.io/react/)
+
+* [ ] [Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
+* [ ] [Simple React Patterns](http://lucasmreis.github.io/blog/simple-react-patterns/)
+* [ ] [React Express](http://www.react.express/)
+* [ ] [Create React App](https://github.com/facebookincubator/create-react-app)
+* [ ] [Testing with Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
+* [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+* [ ] [React Redux Tutorial for Beginners, learning Redux in 2018](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)

@@ -1,5 +1,5 @@
-| [Home](README.md) | [Groundwork](groundwork.md) | [JavaScript](javascript.md) | [React](react.md) | [Serverless](serverless.md) | [PHP](php.md) | [WordPress](wordpress.md) | [Docker](docker.md) | Linux | [CSS](css.md) |
-| ----------------- | --------------------------- | --------------------------- | ----------------- | --------------------------- | ------------- | ------------------------- | ------------------- | ----- | ------------- |
+| [Home](README.md) | [Groundwork](groundwork.md) | [JavaScript & React](javascript.md) | [Serverless](serverless.md) | [WordPress & PHP](wordpress.md) | Linux & Docker | [CSS](css.md) |
+| ----------------- | --------------------------- | ----------------------------------- | --------------------------- | ------------------------------- | -------------- | ------------- |
 
 
 # [Linux](https://www.linux.org/)
@@ -41,3 +41,9 @@ Learning about Linux and how to use it is essential for an engineer today. Shoul
 * [ ] [Network Sharing](https://linuxjourney.com/lesson/network-file-sharing)
 * [ ] [Subnetting](https://linuxjourney.com/lesson/ipv4)
 * [ ] [Routing](https://linuxjourney.com/lesson/what-is-a-router)
+
+# Docker
+
+* [ ] [Docker Curriculum](https://docker-curriculum.com/)
+* [ ] [Docker & NodeJS](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+* [ ] [Docker & NodeJS Best Practices](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)
