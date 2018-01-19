@@ -12,7 +12,7 @@ It's very important to understand how Git works via its standard command-line in
     - should be your first consideration if looking for a paid client
 - [Github Desktop](https://desktop.github.com/)
     - not as powerful as Git Tower, but a good free option for day-to-day activities
-    - has a a nice GitHub-like diff interface
+    - has a nice GitHub-like diff interface
 - [GitX](https://rowanj.github.io/gitx/)
     - when looking for a powerful free Git client, GitX can do many operations that Github Desktop does not accomodate for
 
