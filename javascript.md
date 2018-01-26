@@ -9,14 +9,21 @@
   * [ ] Extra Credit Repo [https://github.com/username/put-extra-credit-repo-name-here](https://github.com/username/put-extra-credit-repo-name-here)
 * [ ] [Intro to Yarn Package Manager - Chris Courses](https://www.youtube.com/watch?v=7n467QmiANM)
 
+## Fundamentals
+
+It can be overwhelming finding the right resources for learning modern JavaScript development. While much of [The Modern Stack](#the-modern-stack) focuses on JavaScript tooling and frameworks, here are a few resources for learning _JavaScript, the language_. This section will help you master features like Classes, Promises, and flow control.
+
+* [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript)
+  * This book is part of a series from the creator of [PonyFoo.com](https://ponyfoo.com/books). It establishes what modern JavaScript development looks like with ES6+. It's very detailed and a great resource for learning everything from rest parameters to Promises. The book is open source and free, and can be read on GitHub or through [PonyFoo.com](https://ponyfoo.com/books) in exchange for a tweet.
+* [ ] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
+  * _Note_ Exercises 9 and 10 have bugs in the workshopper that will cause your solution to always fail as documented [here](https://github.com/stevekane/promise-it-wont-hurt/pull/112). Complete and leave it failed or skip it altogether.
+
 ## The Modern Stack
 
 [![Build Status](https://img.shields.io/circleci/token/YOUR_TOKEN/project/github/USER/REPO/BRANCH.svg?style=flat-square)](https://circleci.com/USER/REPO/tree/BRANCH) [![Coverage Status](https://img.shields.io/codecov/c/token/YOUR_TOKEN/github/USER/REPO/BRANCH.svg?style=flat-square)](https://codecov.io/USER/REPO/branch/BRANCH)
 
 * [ ] [Learn You Node](https://github.com/workshopper/learnyounode)
 * [ ] [Expressworks](https://github.com/azat-co/expressworks)
-* [ ] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
-  * _Note_ Exercises 9 and 10 have bugs in the workshopper that will cause your solution to always fail as documented [here](https://github.com/stevekane/promise-it-wont-hurt/pull/112). Complete and leave it failed or skip it altogether.
 * [ ] [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 * [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
@@ -37,7 +44,7 @@
 ### More Reading
 
 * [Mastering Modular JavaScript](https://github.com/mjavascript/mastering-modular-javascript)
-  * This book is part of a series from the creator of [PonyFoo.com](https://ponyfoo.com/books). It explores the history of modules in JavaScript and how to build robust modules using real-world design patterns and practices. The book is open source and free, and can be read on GitHub or through [PonyFoo.com](https://ponyfoo.com/books) in exchange for a tweet.
+  * This is another book from the creator of [PonyFoo.com](https://ponyfoo.com/books). It explores the history of modules in JavaScript and how to build robust modules using real-world design patterns and practices. Once you've mastered the [Fundamentals](#fundamentals), this book can introduce even more interesting and advanced topics.
 
 # [React](https://facebook.github.io/react/)
 
