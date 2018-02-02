@@ -1,5 +1,6 @@
 | [Home](README.md) | JavaScript & React | [Serverless](serverless.md) | [WordPress & PHP](wordpress.md) | [GraphQL](graphql.md) | [Linux & Docker](linux.md) | [CSS](css.md) |
-|-------------------| ------------------ | --------------------------- | ------------------------------- | ----------------------|--------------------------- | ------------- |
+| ----------------- | ------------------ | --------------------------- | ------------------------------- | --------------------- | -------------------------- | ------------- |
+
 
 # JavaScript
 
@@ -16,7 +17,6 @@ It can be overwhelming finding the right resources for learning modern JavaScrip
 * [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript)
   * This book is part of a series from the creator of [PonyFoo.com](https://ponyfoo.com/books). It establishes what modern JavaScript development looks like with ES6+. It's very detailed and a great resource for learning everything from rest parameters to Promises. The book is open source and free, and can be read on GitHub or through [PonyFoo.com](https://ponyfoo.com/books) in exchange for a tweet.
 * [ ] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
-  * _Note_ Exercises 9 and 10 have bugs in the workshopper that will cause your solution to always fail as documented [here](https://github.com/stevekane/promise-it-wont-hurt/pull/112). Complete and leave it failed or skip it altogether.
 
 ## The Modern Stack
 
@@ -30,9 +30,11 @@ It can be overwhelming finding the right resources for learning modern JavaScrip
   * Each exercise should be in its own folder
     * You may find it useful to copy/paste the content of the previous exercise for the next one
   * [Part 08](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/08-bootstrap-jss.md)
+
     * There is a reported [issue](https://github.com/verekia/js-stack-from-scratch/issues/243) while using the latest `react-jss` version and it is solved by importing JssProvider rather than SheetsRegistryProvider.
 
   * [Part 09](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/09-travis-coveralls-heroku.md)
+
     * Create a separate repository, it makes it easier to set up CI and to Deploy your app.
     * Read through [this gist](https://gist.github.com/Faultless/cbb014364dc1a5440ab6473a9a3608ab) for **major** changes to the CI stack.
     * **Before** trying to **deploy** to Heroku, **Remove** the `--progress` flag from your `prod:build` script.
