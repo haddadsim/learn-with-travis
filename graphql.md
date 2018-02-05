@@ -5,7 +5,8 @@
 
 * [ ] [Introduction to GraphQL](http://graphql.org/learn/)
 * [ ] [How to GraphQL: The fullstack tutorial for GraphQL](https://www.howtographql.com/)
-* [ ] [Explaining GraphQL Connections](https://dev-blog.apollodata.com/explaining-graphql-connections-c48b7c3d6976)
+* [ ] Read [Relay versus Apollo: An un-opinionated comparison of GraphQL clients for React apps](https://blog.graph.cool/relay-vs-apollo-comparing-graphql-clients-for-react-apps-b40af58c1534)
+* [ ] Exercise: Create a full-stack, GraphQL-Prisma-Apollo-React blogging application using [the basic boilerplate in   react-fullstack-graphql](https://github.com/graphql-boilerplates/react-fullstack-graphql/tree/master/basic). Follow the instructions in the README, and once you have the starter blogging app running, add another field called "AlternateTitle" to the Post object and update the queries and mutations to support it.
 
 ## GraphQL & WordPress
 
