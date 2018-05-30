@@ -57,3 +57,10 @@ It can be overwhelming finding the right resources for learning modern JavaScrip
 * [ ] [Testing with Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
 * [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 * [ ] [React Redux Tutorial for Beginners, learning Redux in 2018](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
+
+## React Best Practices
+
+* [ ] [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+* [ ] [MuseFind's](https://musefind.com/) [Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
+* [ ] [Clean Code vs. Dirty Code by American Express Technology](https://americanexpress.io/clean-code-dirty-code/)
+* [ ] [React Architecture Best Practices](https://www.sitepoint.com/react-architecture-best-practices/)
