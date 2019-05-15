@@ -18,7 +18,8 @@ Headless WordPress doesn't use any PHP templates. It just provides a REST API to
 
 ### Skills to Master
 
-* [ ] Install standard WordPress on your local computer. To do so, clone and modify Postlight's [WordPress Starter Kit](https://github.com/postlight/headless-wp-starter) to spin up a regular (versus headless) installation. (Hint: In `Robofile.php`, don't activate the headless theme, don't delete the twentyseventeen or twentysixteen theme, do activate the twentyseventeen theme, and don't start the Node frontend.)
+* [ ] Install standard WordPress on your local computer using docker: https://docs.docker.com/compose/wordpress/
+* [ ] [Quick Introduction To WordPress](https://docs.google.com/document/d/1nKzk6EtieL0NYH4qP_BDKU8JqqrzfR_dVIZV15Rf-2s/edit?usp=sharing)
 
 #### Basic WordPress Usage
 
@@ -56,6 +57,8 @@ In your local WordPress installation:
 
 #### Developer
 
+* [ ]  Get familiar with the [WP Architecture](https://www.optimizesmart.com/wordpress-ninja-15-minutes/) and make sure to check the [Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/)
+* [ ] Read up on [WP directory structure](https://www.wpbeginner.com/beginners-guide/beginners-guide-to-wordpress-file-and-directory-structure/)
 * [ ] Read up on [WordPress Theme Development](https://developer.wordpress.org/themes/).
 * [ ] Read up on [WP_Query](https://codex.wordpress.org/Class_Reference/WP_Query).
 * [ ] Create a page template that uses a customized `WP_Query`.
@@ -66,6 +69,7 @@ In your local WordPress installation:
     * [ ] Activate and deactivate a plugin using `wp-cli`.
 * [ ] Read up on [WordPress filters and actions](https://codex.wordpress.org/Plugin_API).
     * [ ] Add a hook to your theme that emails you when a new post is published.
+* [ ] Read up on [Multisite architecture](https://codex.wordpress.org/Create_A_Network)
 
 # PHP
 
@@ -78,4 +82,3 @@ In your local WordPress installation:
 
 * Optional:
   * [ ] Build a modern API using [Slim PHP](https://www.slimframework.com/) by following this [tutorial](https://www.slimframework.com/docs/tutorial/first-app.html)
-
