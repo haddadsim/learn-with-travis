@@ -40,7 +40,7 @@ Once you have completed the training you can put it to practice to see how far y
 See also: [The Postlight Engineering Library](https://trello.com/b/Sgol3uST/postlight-engineering-library).
 
 ## Groundwork
-gir
+
 These skills lay the foundation for all the exercises that follow.
 
 ### Git / GitHub
