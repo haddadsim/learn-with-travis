@@ -61,7 +61,7 @@ Markdown is what this document is written in.
 
 ### For anyone who hasn't done much web development
 
-* [ ] [FreeCodeCamp](https://www.freecodecamp.org) - Learn the basics of HTML, CSS, and JavaScript online.
+* [X] [FreeCodeCamp](https://www.freecodecamp.org) - Learn the basics of HTML, CSS, and JavaScript online.
 
 ## What's Inside
 
