@@ -51,13 +51,13 @@ These skills lay the foundation for all the exercises that follow.
 * [x] [Git-it Desktop App tutorial](https://github.com/jlord/git-it-electron)
   * [x] Your first repo: [https://github.com/haddadsim/hello-world](https://github.com/haddadsim/hello-world)
   * [x] Your fork of patchwork repo: [https://github.com/haddadsim/patchwork](https://github.com/haddadsim/patchwork)
-* [ ] Take a look at the [Advanced Git](advanced-git.md) section to further improve how you work with Git
+* [x] Take a look at the [Advanced Git](advanced-git.md) section to further improve how you work with Git
 
 ### Documentation
 
 Markdown is what this document is written in.
 
-* [ ] [How to Markdown](https://github.com/workshopper/how-to-markdown)
+* [x] [How to Markdown](https://github.com/workshopper/how-to-markdown)
 
 ### For anyone who hasn't done much web development
 
