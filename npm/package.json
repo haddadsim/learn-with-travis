@@ -1,0 +1,21 @@
+{
+  "name": "@simonhaddad/package",
+  "version": "1.0.1",
+  "description": "new package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haddadsim/learn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haddadsim/learn/issues"
+  },
+  "homepage": "https://github.com/haddadsim/learn#readme"
+}
