@@ -6,7 +6,7 @@
 
 ## Package Management
 
-* [ ] [How to NPM](https://github.com/workshopper/how-to-npm)
+* [X] [How to NPM](https://github.com/workshopper/how-to-npm)
   * [ ] Extra Credit Repo [https://github.com/username/put-extra-credit-repo-name-here](https://github.com/username/put-extra-credit-repo-name-here)
 * [ ] [Intro to Yarn Package Manager - Chris Courses](https://www.youtube.com/watch?v=7n467QmiANM)
 
