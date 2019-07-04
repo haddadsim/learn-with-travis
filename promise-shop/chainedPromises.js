@@ -1,10 +1,8 @@
-'use strict';
+"use strict";
 
+let firstPromise = first();
 
-
-var firstPromise = first();
-
-var secondPromise = firstPromise.then( (val) => {
+let secondPromise = firstPromise.then(val => {
   return second(val);
 });
 
