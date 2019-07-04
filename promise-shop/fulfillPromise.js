@@ -1,12 +1,11 @@
-'use strict';
+"use strict";
 
-var promise = new Promise(function (fulfill, reject) {
-    setTimeout(() => {
-        fulfill('FULFILLED!');
-    }, 300);
-        
-})
+let promise = new Promise(function(fulfill, reject) {
+  setTimeout(() => {
+    fulfill("FULFILLED!");
+  }, 300);
+});
 
-promise.then( (value) => {
-    console.log(value);
+promise.then(value => {
+  console.log(value);
 });
