@@ -1,4 +1,4 @@
-var qhttp = require("q-io/http");
+let qhttp = require("q-io/http");
 qhttp
   .read("http://localhost:1337")
   .then(json => {
