@@ -1,7 +1,7 @@
-let fs = require("fs");
-let filePath = process.argv[2];
+const fs = require("fs");
+const filePath = process.argv[2];
 
-let numberOfLines;
+const numberOfLines;
 
 fs.readFile(filePath,  (err, data) => {
     data = data.toString();
