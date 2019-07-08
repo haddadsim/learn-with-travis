@@ -22,7 +22,7 @@ It can be overwhelming finding the right resources for learning modern JavaScrip
 
 [![Build Status](https://img.shields.io/circleci/token/YOUR_TOKEN/project/github/USER/REPO/BRANCH.svg?style=flat-square)](https://circleci.com/USER/REPO/tree/BRANCH) [![Coverage Status](https://img.shields.io/codecov/c/token/YOUR_TOKEN/github/USER/REPO/BRANCH.svg?style=flat-square)](https://codecov.io/USER/REPO/branch/BRANCH)
 
-- [ ] [Learn You Node](https://github.com/workshopper/learnyounode)
+- [x] [Learn You Node](https://github.com/workshopper/learnyounode)
 - [ ] [Expressworks](https://github.com/azat-co/expressworks)
 - [ ] [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 - [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
