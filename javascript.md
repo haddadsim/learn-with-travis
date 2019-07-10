@@ -24,7 +24,7 @@ It can be overwhelming finding the right resources for learning modern JavaScrip
 
 - [x] [Learn You Node](https://github.com/workshopper/learnyounode)
 - [x] [Expressworks](https://github.com/azat-co/expressworks)
-- [ ] [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
+- [X] [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 - [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
   - Each exercise should be in its own folder
