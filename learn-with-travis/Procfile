@@ -1,0 +1,1 @@
+web: node lib/serveryarn remove pm2
