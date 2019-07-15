@@ -1,0 +1,15 @@
+{
+  "cSpell.words": [
+    "browserslist",
+    "compat",
+    "flowtype",
+    "multiline",
+    "no",
+    "unexpected"
+  ],
+  "files.eol": "\n",
+  "prettier.endOfLine": "lf",
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "eslint.autoFixOnSave": true
+}
