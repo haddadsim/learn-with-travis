@@ -12,10 +12,10 @@
     "prod:build": "rimraf lib dist && babel src -d lib --ignore .test.js && cross-env NODE_ENV=production webpack -p --progress",
     "prod:start": "heroku local",
     "lint": "eslint src webpack.config.babel.js --ext .js,.jsx",
-    "test": "npm lint && flow && jest --coverage",
+    "test": "npm run lint && flow && jest --coverage",
     "precommit": "npm test",
-    "heroku-postbuild": "npm prod:build",
-    "prepush": "npm test && npm prod:build"
+    "heroku-postbuild": "npm run prod:build",
+    "prepush": "npm test && npm run prod:build"
   },
   "engines": {
     "node": "7.x",
