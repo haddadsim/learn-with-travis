@@ -3,7 +3,9 @@
 
 
 # JavaScript
+
 ![CircleCI](https://img.shields.io/circleci/build/github/haddadsim/learn-with-travis.svg?style=flat-square)
+![codecov](https://codecov.io/gh/haddadsim/learn-with-travis/branch/master/graph/badge.svg)](https://codecov.io/gh/haddadsim/learn-with-travis)
 
 ## Package Management
 
@@ -25,7 +27,7 @@ It can be overwhelming finding the right resources for learning modern JavaScrip
 
 - [x] [Learn You Node](https://github.com/workshopper/learnyounode)
 - [x] [Expressworks](https://github.com/azat-co/expressworks)
-- [X] [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
+- [x] [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
 - [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
   - Each exercise should be in its own folder
