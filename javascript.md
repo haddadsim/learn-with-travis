@@ -21,7 +21,7 @@ It can be overwhelming finding the right resources for learning modern JavaScrip
 ## The Modern Stack
 
 ![CircleCI](https://img.shields.io/circleci/build/github/haddadsim/learn-with-travis.svg?style=flat-square)
-[![codecov](https://codecov.io/gh/haddadsim/learn-with-travis/branch/master/graph/badge.svg)](https://codecov.io/gh/haddadsim/learn-with-travis)]
+[![codecov](https://codecov.io/gh/haddadsim/learn-with-travis/branch/master/graph/badge.svg)](https://codecov.io/gh/haddadsim/learn-with-travis)
 
 - [x] [Learn You Node](https://github.com/workshopper/learnyounode)
 - [x] [Expressworks](https://github.com/azat-co/expressworks)
