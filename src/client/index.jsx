@@ -1,4 +1,4 @@
-// @flow
+
 
 import 'babel-polyfill';
 
@@ -46,7 +46,8 @@ const wrapApp = (AppComponent, reduxStore) => (
     </BrowserRouter>
   </Provider>
 );
-ReactDOM.render(wrapApp(App, store), rootEl);
+const app1 = wrapApp(App, store);
+ReactDOM.render(app1, rootEl);
 
 if (module.hot) {
   // flow-disable-next-line
