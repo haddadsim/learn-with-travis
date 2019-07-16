@@ -14,7 +14,7 @@ const ModalExample = () => (
           This is a Bootstrap modal. It uses jQuery.
         </div>
         <div className="modal-footer">
-          <button type="button" role="button" className="btn btn-primary" data-dismiss="modal">Close</button>
+          <button type="button" className="btn btn-primary" data-dismiss="modal">Close</button>
         </div>
       </div>
     </div>
