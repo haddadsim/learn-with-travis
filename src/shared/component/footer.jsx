@@ -1,5 +1,5 @@
 // @flow
-// @flow
+
 
 import React from 'react';
 import { APP_NAME } from '../config';
@@ -10,11 +10,11 @@ const Footer = () => (
     <footer>
       <p>
 ©
-{' '}
-{APP_NAME}
-{' '}
+        {' '}
+        {APP_NAME}
+        {' '}
 2017
-</p>
+      </p>
     </footer>
   </div>
 );
