@@ -12,7 +12,7 @@ const Button = ({ label, handleClick }: Props) => (
     onClick={handleClick}
     className="btn btn-primary"
     type="button"
-    role="button"
+
   >
     {label}
 
