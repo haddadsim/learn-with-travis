@@ -79,7 +79,7 @@
     "redux-mock-store": "^1.5.3",
     "rimraf": "^2.6.3",
     "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.5",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.7.2"
   },
   "browserslist": [
